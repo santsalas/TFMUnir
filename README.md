@@ -13,10 +13,10 @@ El archivo desarrollado en python creditCardFraudTFM.ipynb tiene el código fuen
 
 Se han creado varias carpetas para separar ejemplos de instancias, métricas e información de los modelos entrenados.
 
-/instances - Gráficos de ejemplo de instancias validadas con LIME aplicadas a los modelos Random Forest, Naive Bayes y Artificial Neural Network.  
+/interpretability - Interpretabilidad de los modelos.  
 
-/metrics - Archivos csv con la información de las métricas exactitud, precisión, AUC y MCC para los modelos Random Forest, Naive Bayes y Artificial Neural Network.  
+/metrics - Métricas.  
 
-/models - modelos entrenados.
+/smote - Evaluación de resultados de SMOTE.
 
 El dataset Credit Card Fraud Detection se lo obtuvo de Kaggle y se lo puede encontrar en la siguiente dirección: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
