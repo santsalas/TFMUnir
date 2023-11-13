@@ -13,10 +13,10 @@ El archivo desarrollado en python creditCardFraudTFM.ipynb tiene el código fuen
 
 Se han creado varias carpetas para separar ejemplos de instancias, métricas e información de los modelos entrenados.
 
-/interpretability - Interpretabilidad de los modelos.  
+/interpretability - Documento evaluación de modelos, pestañas Interpretabilidad e Interpretabilidad de las Instancias.  
 
-/metrics - Métricas.  
+/metrics - Documento evaluación de modelos, pestaña Métricas.  
 
-/smote - Evaluación de resultados de SMOTE.
+/smote - Documento evaluación del dataset, pestaña SMOTE.
 
 El dataset Credit Card Fraud Detection se lo obtuvo de Kaggle y se lo puede encontrar en la siguiente dirección: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
